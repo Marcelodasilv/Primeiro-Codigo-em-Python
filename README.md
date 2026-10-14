@@ -1,6 +1,6 @@
 # Operações Matemáticas em Python
 
-Este é o meu **primeiro projeto em Python**! Ele consiste em uma calculadora simples baseada em terminal que realiza operações matemáticas fundamentais utilizando conceitos de Programação Orientada a Objetos (POO) ou modularização.
+Este é o meu **primeiro projeto em Python**! Ele consiste em uma calculadora simples baseada em terminal que realiza operações matemáticas fundamentais utilizando conceitos de Programação Orientada a Objetos (POO).
 
 ## Estrutura do Projeto
 
