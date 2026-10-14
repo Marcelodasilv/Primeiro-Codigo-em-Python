@@ -8,7 +8,7 @@ O projeto está organizado com os seguintes arquivos:
 
 *   `main.py`: O ponto de entrada do aplicativo que inicia a execução.
 *   `menu.py`: Gerencia a interface de usuário no terminal e a escolha das operações.
-*   `OperacaoMatematica.py`: Classe ou módulo base para as operações.
+*   `OperacaoMatematica.py`: Classe base para as operações.
 *   `Soma.py`: Contém a lógica para a operação de adição.
 *   `Subtracao.py`: Contém a lógica para a operação de subtração.
 *   `Multiplicacao.py`: Contém a lógica para a operação de multiplicação.
